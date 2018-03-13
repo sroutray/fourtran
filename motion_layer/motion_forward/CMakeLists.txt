@@ -122,7 +122,7 @@ CATKIN_DEPENDS actionlib actionlib_msgs dynamic_reconfigure motion_common roscpp
 ## Specify additional locations of header files
 ## Your package locations should be listed before other locations
 include_directories(
-  #include
+  include
   ${catkin_INCLUDE_DIRS}
   ${dynamic_reconfigure_PACKAGE_PATH}/cmake/cfgbuild.cmake
 )

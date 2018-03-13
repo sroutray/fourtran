@@ -1,0 +1,9 @@
+#goal definition
+float32 AngleToTurn
+int32 check
+---
+#result definition
+bool result
+---
+#feedback
+float32 AngleRemaining
